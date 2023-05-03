@@ -3,6 +3,8 @@
 A aplicação consome dados da API Pokéapi e exibe uma lista de Pokemons. 
 É possível "capturar" o seu Pokemon preferido e navegar nas demais páginas da listagem.
 
+<img src="https://user-images.githubusercontent.com/53622773/235822666-0d312dab-73e4-43ac-880c-e3223677caa1.png" width="700px" />
+
 #### Funcionalidades da aplicação: 
 
 - Listagem de Pokemons;
