@@ -11,7 +11,7 @@ A aplicação consome dados da API Pokéapi e exibe uma lista de Pokemons.
 - Paginação da listagem;
 - Busca por Pokemons;
 
-**Objetivo**: Desafio Técnico
+[Acessar projeto](https://teste-pokemons.surge.sh/)
 
 ## Como foi feito? 
 > A aplicação foi desenvolvida utilizando ReactJS e as seguintes tecnologias `vite`, `redux toolkit`, `styled-components`, `axios`, `react hooks`.
